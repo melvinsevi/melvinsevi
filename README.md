@@ -15,22 +15,21 @@ Here are some projects I'm proud of:
 
 ### [Project 1]
 
-Unleashing text ....
+Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
 - 🔗 [Link to Project 1 Repository]
 
-Improving the IP - Adapter Model
+### [Project 2]
 
-[Description of Project 2]
+Improving the creative scope of the IP-Adapter Model
 
-- 🔗 [Link to Project 2 Repository]
+- 🔗 [Coming soon...]
 
-...
 
 ## Contact Me
 
 - 📧 Email: [melvinsevi6@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/]
-- 🌐 Website: []
+- 🌐 Website: [Coming soon...]
 
 ## Let's Connect
 

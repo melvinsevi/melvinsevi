@@ -5,7 +5,6 @@ I'm Melvin, a student passionate about machine learning and computer vision. Wel
 ## About Me
 
 - 💼 I am currently a student as a ENS Paris Saclay at the MVA Master's degree in France. Previously Studied at Sorbonne University.
-- 🌱 I'm currently learning [Technologies or Skills you are currently learning].
 - 🤔 I'm interested in Computer Vision, Generative models for Vision, text-to-motion synthesis and 3D computer vision.
 
 ## My GitHub Stats

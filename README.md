@@ -10,8 +10,6 @@ I'm Melvin, a student passionate about machine learning and computer vision. Wel
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinsevi&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
-
 ## Featured Projects
 
 Here are some projects I'm proud of:

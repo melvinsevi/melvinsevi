@@ -28,7 +28,8 @@ Improving the creative scope of the IP-Adapter Model
 ## Contact Me
 
 - 📧 Email: [melvinsevi6@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/]
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/) 😊
+
 - 🌐 Website: [Coming soon...]
 
 ## Let's Connect

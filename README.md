@@ -18,7 +18,10 @@ Here are some projects I'm proud of:
 Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
 - 🔗 [https://github.com/melvinsevi/MVA-Project-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception]
 
-### [https://github.com/melvinsevi/MVA-Enhancing-IP-Adapter-Generation-Diversity]
+### [Project 1]
+
+Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
+- 🔗 [https://github.com/melvinsevi/MVA-Project-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception]]
 
 Improving the creative scope of the IP-Adapter Model
 

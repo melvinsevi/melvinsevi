@@ -16,7 +16,7 @@ Here are some projects I'm proud of:
 ### [Project 1]
 
 Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
-- 🔗 [Link to Project 1 Repository]
+- 🔗 [https://github.com/melvinsevi/MVA-Project-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception]
 
 ### [Project 2]
 

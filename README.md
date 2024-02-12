@@ -28,7 +28,7 @@ Enhancing-IP-Adapter-Generation-Diversity
 - 📧 Email: [melvinsevi6@gmail.com]
 - 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/) 😊
 
-- 🌐 Website: [https://melvinsevi.github.io/]
+- 🌐 Website: [Check my website](https://melvinsevi.github.io/)
 
 ## Let's Connect
 

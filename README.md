@@ -23,11 +23,6 @@ Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
 Enhancing-IP-Adapter-Generation-Diversity
 - 🔗 [https://github.com/melvinsevi/MVA-Enhancing-IP-Adapter-Generation-Diversity]]
 
-Improving the creative scope of the IP-Adapter Model
-
-- 🔗 [Coming soon...]
-
-
 ## Contact Me
 
 - 📧 Email: [melvinsevi6@gmail.com]

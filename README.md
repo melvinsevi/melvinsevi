@@ -1,37 +1,31 @@
-# Hi there! 👋
+# Melvin Sevi
 
-I'm Melvin, a student passionate about machine learning and computer vision. Welcome to my GitHub profile!
+**PhD student at Inria Grenoble · Generative modeling, reinforcement learning, and visual control**
 
-## About Me
+I study how to make image generation more controllable, reliable, and computationally efficient. My research focuses on post-training generative models with reinforcement learning, with an interest in autoregressive, flow-matching, and hybrid architectures.
 
-- 💼 I am currently a student as a ENS Paris Saclay at the MVA Master's degree in France. Previously Studied at Sorbonne University for my first year master's degree and my bachelor's degree.
-- 🤔 I'm interested in Computer Vision, Generative models for Vision, text-to-motion synthesis and 3D computer vision.
+I am advised by [Stéphane Lathuilière](https://stelat.eu/). Previously, I studied in the MVA master's program at ENS Paris-Saclay and at Sorbonne University, and worked with Björn Ommer's [Computer Vision & Learning group at LMU Munich](https://ommer-lab.com/).
 
-## My GitHub Stats
+[Website](https://melvinsevi.github.io/) · [Publications](https://melvinsevi.github.io/publications/) · [Email](mailto:melvin.sevi@inria.fr) · [LinkedIn](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/)
 
-## Featured Projects
+## Research interests
 
-Here are some projects I'm proud of:
+- **Control and alignment:** helping image generators follow compositional instructions and human preferences.
+- **Efficient post-training:** understanding where learning signals and computation are most useful during generation.
+- **Structured generation:** studying how visual representations and generation processes support planning, refinement, and control.
 
-### [Project 1]
+## Selected publication
 
-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception
-- 🔗 [https://github.com/melvinsevi/MVA-Project-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception]
+**Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions**
 
-### [Project 2]
+Stefan Andreas Baumann, Felix Krause, Michael Neumayr, Nick Stracke, **Melvin Sevi**, Vincent Tao Hu, and Björn Ommer
 
-Enhancing-IP-Adapter-Generation-Diversity
-- 🔗 [https://github.com/melvinsevi/MVA-Enhancing-IP-Adapter-Generation-Diversity]]
+CVPR 2025 · [Paper](https://arxiv.org/abs/2403.17064) · [Project](https://compvis.github.io/attribute-control/) · [Code](https://github.com/CompVis/attribute-control)
 
-## Contact Me
+Our work studies continuous control over individual subjects' attributes in text-to-image generation.
 
-- 📧 Email: [melvinsevi6@gmail.com]
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/melvin-sevi-ens-mva-6660b0209/) 😊
+## Earlier projects
 
-- 🌐 Website: [Check my website](https://melvinsevi.github.io/)
-
-## Let's Connect
-
-Feel free to reach out! I'm always open to collaboration and interesting discussions.
-
-Happy coding! 🚀
+- [Visual perception with text-to-image diffusion models](https://github.com/melvinsevi/MVA-Project-Unleashing-Text-to-Image-Diffusion-Models-for-Visual-Perception) — MVA project on referring image segmentation.
+- [Generation diversity with IP-Adapter](https://github.com/melvinsevi/MVA-Enhancing-IP-Adapter-Generation-Diversity) — MVA project exploring diversity in image generation.
+- [Expectation-maximization for hidden Markov models](https://github.com/melvinsevi/EM-Algorithm-Implementation-for-Parameter-Estimation-in-Hidden-Markov-Models) — implementation of EM for HMM parameter estimation.
